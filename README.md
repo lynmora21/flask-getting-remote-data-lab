@@ -67,3 +67,11 @@ Once all tests are passing and working code is pushed to the GitHub main branch,
 The application passes all test suites.
 * Get json data
 * Convert to Json
+
+## Functionality
+
+This application retrieves data from a remote API endpoint and converts the response from JSON into Python data. The `GetRequester` class uses the `requests` library to retrieve the response body and the `json` library to parse the response.
+
+## Completed Work
+
+![Completed API implementation](screenshots/completed-work.png)
